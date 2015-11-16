@@ -1,5 +1,5 @@
 ## Videos
 
-| ![Zecke](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/800px-Ixodes_hexagonus_%28aka%29.jpg?1443432361739)
+| ![Zecke](https://aristabeeresearch.org/wp-content/uploads/2013/05/Varroa-Mite-Gilles-San-Martin-1024x685.jpg)
 
 [Schauen Sie sich folgende Filmsequenz zur Varroamilbe an](https://www.youtube.com/watch?v=teopiu9VYBA)
