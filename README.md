@@ -20,7 +20,7 @@ ___
 
 ## Die Zellteilung
 
-Als nächstes werden wir uns dem Thema Bakterien widmen. [*Bacillus subtilis*](http://www.wikiwand.com/de/Bacillus_subtilis) ist ein Gram-positives Modell-Bakterium. Schauen Sie sich [dieses] Video an und beantworten Sie folgende Fragen:
+Als nächstes werden wir uns dem Thema Bakterien widmen. [*Bacillus subtilis*](http://www.wikiwand.com/de/Bacillus_subtilis) ist ein Gram-positives Modell-Bakterium. Schauen Sie sich [dieses](https://github.com/DominicEicher/Bio/blob/master/Videos/B.%20subtilis%20aus%20Sporen_DE2010.avi) Video an und beantworten Sie folgende Fragen:
 
 1. Konzentrieren Sie sich auf eine der weissen Sporen und notieren Sie sich Ihre Beobachtungen.
 2. Beachten Sie die Zeitangabe in der oberen linken Ecke. Wie schnell teilen sich die Zellen?
