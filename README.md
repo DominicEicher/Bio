@@ -13,3 +13,13 @@ Weitere interessante Videos zum Thema finden Sie [hier](https://github.com/Domin
 Falls Sie in einer der Lektionen gefehlt haben, finden Sie alle Arbeitsblätter zu diesem Thema [hier](https://github.com/DominicEicher/Bio/tree/master/Arbeitsbl%C3%A4tter)!
 
 Damit alle für die Prüfung dieselben Informationen habe, [hier](https://github.com/DominicEicher/Bio/blob/master/Arbeitsbl%C3%A4tter/Arbeitsblatt%20FSME%20vs%20Borreliose.pdf) noch die Lösungen zum Arbeitsblatt über Krankheiten, die von Zecken übertragen werden. 
+
+___
+
+# Unterrichtseinheit BAKTERIEN
+
+## Die Zellteilung
+
+Als nächstes werden wir uns dem Thema Bakterien widmen. [*Bacillus subtilis*](http://www.wikiwand.com/de/Bacillus_subtilis) ist ein Gram-positives Modell-Bakterium. Schauen Sie sich [dieses] Video an und beantworten Sie folgende Fragen:
+1. Konzentrieren Sie sich auf eine der weissen Sporen und notieren Sie sich Ihre Beobachtungen.
+2. Beachten Sie die Zeitangabe in der oberen linken Ecke. Wie schnell teilen sich die Zellen?
