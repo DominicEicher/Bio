@@ -5,3 +5,8 @@ Die Milbe Varroa destructor ist ein Parasit der Honigbiene (Apis mellifera). Der
 <img src="https://aristabeeresearch.org/wp-content/uploads/2013/05/Varroa-Mite-Gilles-San-Martin-1024x685.jpg" width="500" alt="Varroa destructor" align="middle">
 
 [Schauen Sie sich folgende Filmsequenz zur Varroamilbe an](https://www.youtube.com/watch?v=teopiu9VYBA)
+
+https://github.com/DominicEicher/Bio/tree/master/Arbeitsbl%C3%A4tter
+
+http://github.com - automatic!
+[GitHub](http://github.com)
